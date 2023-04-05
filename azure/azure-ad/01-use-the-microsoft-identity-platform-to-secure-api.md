@@ -3,7 +3,7 @@ Microsoft 标识平台可帮助开发者构建应用程序，允许用户使用�
 
 Microsoft 标识平台提供符合 OAuth 2.0 和 OpenID Connect 标准的身份验证服务，用于开发者实现对多种账户类型进行身份验证，包括在 Azure AD 中配置的企业用户、用户个人的 Microsoft 账户和各种社交账户。
 
-![](/assets/img/convergence-scenarios-webapi.svg "")
+![图片](/assets/img/convergence-scenarios-webapi.svg "Web API 的身份验证流")
 
 本篇包含以下内容：
 - 开发本地 SPA 应用
