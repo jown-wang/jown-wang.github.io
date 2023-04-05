@@ -1,4 +1,9 @@
-## Azure篇：1. 使用Azure AD用户登录到Angular应用
+# 使用企业用户登录 SPA 应用并访问受保护的 API
+
+本篇包含以下内容：
+- 开发本地 SPA 应用
+- 在 Microsoft 标识平台中注册 SPA 应用
+- 登录、注销和保护路由
 
 本篇介绍在Angular应用中集成Azure AD(Azure Active Direcotry)身份验证服务，
 
